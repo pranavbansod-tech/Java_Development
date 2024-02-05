@@ -1,5 +1,3 @@
-# CODECLAUSE INTERNSHIP
-> Here I have completed total 3 allocated projects are Project 1, Project 2 and one Golden Project.
 
 ## Task-1 - Time Conversion By Country ⏰
 
